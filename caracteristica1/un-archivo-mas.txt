@@ -1,0 +1,3 @@
+Este archivo también fue añadido en la rama caracteristica1.
+
+Un cambio más en la rama caracteristica1.
