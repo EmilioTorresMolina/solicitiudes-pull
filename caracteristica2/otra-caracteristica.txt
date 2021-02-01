@@ -1,1 +1,3 @@
 Este archivo fue añadido en la rama caracteristica2.
+
+Otra línea.
